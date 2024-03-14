@@ -1,4 +1,7 @@
 # grocery_ui
+![image](https://github.com/AtalibAgAlmousleck/flutter_grocery_ui/assets/87047616/d6791ad9-957d-412b-b1b9-430cfba66a0d)
+![image](https://github.com/AtalibAgAlmousleck/flutter_grocery_ui/assets/87047616/5a985785-6a5b-4daa-8bd8-77d6fdb0be3a)
+
 
 A new Flutter project.
 
